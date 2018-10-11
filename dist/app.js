@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sum__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sum */ \"./src/sum.js\");\n/* harmony import */ var _util__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util */ \"./src/util.js\");\n\r\n\r\n\r\nvar numbers = [20, 5, 30, 50, 40];\r\n\r\nconsole.log(Object(_sum__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(numbers));\r\n\r\n//console.log(arrAvg(numbers));\r\n\r\nconsole.log(Object(_util__WEBPACK_IMPORTED_MODULE_1__[\"arrMax\"])(numbers));\n\n//# sourceURL=webpack:///./src/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sum__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sum */ \"./src/sum.js\");\n/* harmony import */ var _util__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util */ \"./src/util.js\");\n\r\n\r\n\r\nvar numbers = [20, 5, 30, 50, 40];\r\n\r\nconsole.log(Object(_sum__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(numbers));\r\n\r\nconsole.log(arrAvg(numbers));\r\n\r\nconsole.log(Object(_util__WEBPACK_IMPORTED_MODULE_1__[\"arrMax\"])(numbers));\n\n//# sourceURL=webpack:///./src/app.js?");
 
 /***/ }),
 

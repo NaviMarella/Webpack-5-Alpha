@@ -4,7 +4,8 @@
   "description": "Test for webpack 5 Alpha",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "debug": "node --inspect --debug-brk ./node_modules/webpack/bin/webpack.js"
   },
   "repository": {
     "type": "git",
