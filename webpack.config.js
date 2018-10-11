@@ -12,7 +12,7 @@ module.exports = {
     output: {
         filename: '[name].js'
     },
-    watch: true,
+    watch: false,
     cache: {
         loglevel: 'debug',
         type: 'filesystem',
